@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+}
+.bg-light {
+  margin: 0px;
+}
+.list-item {
+  display: inline-block;
+  list-style: none;
+}
+.item {
+  display: inline-block;
+  margin: 5px;
+  padding: 2px;
+  border: 1px solid #000;
+  height: 200px;
+  width: 150px;
+}
+.marco {
+  padding: 0px;
+  border: 1px solid #000;
+  float: right;
+}
+footer {
+  background: #000;
+  height: auto;
+  width: 100vw;
+  color: #FFF;
+  text-align: center;
+  margin-top: 20px;
+}
+.footer-bottom p{
+  font-size: 14px;
+  word-spacing: 2px;
+  text-transform: capitalize;
+}
+.footer-bottom span{
+  text-transform: uppercase;
+  opacity: 0.3;
+  font-weight: 200;
+}
